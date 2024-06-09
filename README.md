@@ -1,7 +1,8 @@
 # Calculator
 
-A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Light/Dark Mode.
+A simple Calculator App built with HTML, CSS, and JavaScript.
 
+<b>Description:</b>
 
 Designed and developed a user-friendly Calculator App. 
 This interactive web application allows users to perform basic arithmetic operations conveniently, providing a seamless experience for calculations.
